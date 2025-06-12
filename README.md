@@ -1,7 +1,8 @@
+# Covid 19 - SQL Data Exploration
 This Repository contains files that have been used for my portfolio projects. Feel free to check them out, and please reach out if you have any questions and/or inquiries.
 
 
-**Covid 19 - SQL Data Exploration Project Overview:**
+**Project Overview:**
 
 This project involved analyzing a comprehensive dataset of global COVID-19 data from 2020 to 2022. The objective was to uncover insights related to infection rates, mortality trends, and vaccination progress across different countries and continents. The analysis was performed using raw data from Excel files imported into SQL Server.
 
